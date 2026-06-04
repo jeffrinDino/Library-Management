@@ -33,8 +33,10 @@ Class diagram :
 Activity diagram :
 <img width="607" height="895" alt="image" src="https://github.com/user-attachments/assets/0f69246a-ac5e-441f-a9ce-b7ed267ab39e" />
 Package Diagram:
+
 <img width="440" height="170" alt="image" src="https://github.com/user-attachments/assets/8f89b54e-dee3-44f7-8a84-337f9f7daf60" />
 StateChart Diagram:
+
 <img width="1280" height="887" alt="image" src="https://github.com/user-attachments/assets/70461cba-230d-45bd-b39c-a6fe44891cad" />
 Communication Diagram:
 <img width="773" height="679" alt="image" src="https://github.com/user-attachments/assets/aa11eca1-b9fe-4ecd-960f-c61f6eaddfc1" />
